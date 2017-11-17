@@ -1,7 +1,5 @@
 package com.tanmay.sorting;
 
-import java.util.Arrays;
-
 /**
  * Selection Sort works as follow: 
  * First find the smallest item in the array and exchange it with the 
