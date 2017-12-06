@@ -57,9 +57,4 @@ public class TopDownMergeSort {
 		return u.compareTo(v) < 0;
 	}
 	
-	public static void main(String[] args) {
-		String[] a = {"T", "A", "N", "M", "A", "Y"};
-		sort(a);
-		System.out.println(Arrays.toString(a));
-	}
 }
