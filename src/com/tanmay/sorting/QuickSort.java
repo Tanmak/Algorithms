@@ -65,11 +65,5 @@ public class QuickSort {
 		a[i] = a[j];
 		a[j] = dummy;
 	}
-	
-	public static void main(String[] args) {
-		String[] s = {"T", "A", "N", "M", "A", "Y"};
-		sort(s);
-		System.out.println(Arrays.toString(s));
-	}
 }
  
